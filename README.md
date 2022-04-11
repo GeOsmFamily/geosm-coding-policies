@@ -110,7 +110,6 @@
 
 > Virtualization and Containerization
  1. Docker
- 2. 
 
 # Monitoring
 > What can be advantages : 
